@@ -32,4 +32,3 @@ for element in x.keys():
 Button(root, text='Ok', command=f).pack()
 
 root.mainloop()
-
